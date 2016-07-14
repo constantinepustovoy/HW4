@@ -239,7 +239,8 @@ h2{
 }
 
 .l_box2{
-	margin: 0;
+	margin: 0 0 200px 0;
+	padding-bottom: 120px;
 	padding-left: 12px;
 	line-height: 23px;
 	border-bottom: 1px solid #c7cacf;
